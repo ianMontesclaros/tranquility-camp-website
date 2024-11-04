@@ -3,6 +3,7 @@ import { getCabins } from "../_lib/data-service";
 
 import Image from "next/image";
 import img1 from "@/public/about-1.jpg";
+import img2 from "@/public/about-2.jpg";
 
 // Revalidate every 1 day
 export const revalidate = 86400;
@@ -46,20 +47,11 @@ export default async function Page() {
       </div>
 
       <div className="col-span-2">
-        <Image
-          src={img1}
-          placeholder="blur"
-          alt="Family sitting around a fire pit in front of cabin"
-        />
+        <Image src={img1} placeholder="blur" alt="Tranquility Camp cabin" />
       </div>
 
       <div className="relative aspect-square col-span-2">
-        <Image
-          src="/about-2.jpg"
-          fill
-          className="object-cover"
-          alt="Family that manages Tranquility Camp"
-        />
+        <Image src={img2} placeholder="blur" alt="Karjalainen family" />
       </div>
 
       <div className="col-span-3">
