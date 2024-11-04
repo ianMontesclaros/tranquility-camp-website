@@ -4,6 +4,7 @@
 
 Tranquility Camp Website is a hotel booking website for Tranquility Camp, a hotel known for its perfect viewpoint of the aurora borealis, where guests can book and reserve for exclusive wooden cabins.
 
+
 # Features
 
 1. About: Read about Tranquility Camp and the Karjalainen family.
@@ -18,7 +19,7 @@ Tranquility Camp Website is a hotel booking website for Tranquility Camp, a hote
 
    - Filter cabins by maximum capacity.
   
-   ![Filter cabins](https://github.com/user-attachments/assets/40873a3c-ff32-4dc2-9924-ff3625bc843c)
+   ![Filter cabins](https://github.com/user-attachments/assets/af8fbace-7d02-4a05-bfa3-9b7be5e291e4)
 
 3. Reservations
 
@@ -26,11 +27,9 @@ Tranquility Camp Website is a hotel booking website for Tranquility Camp, a hote
   
    ![Reserve cabin](https://github.com/user-attachments/assets/332e9b4b-ff52-480d-80ac-569e28acdfb8)
 
-
    - View past and upcoming reservations.
 
    ![View past and future cabins](https://github.com/user-attachments/assets/d0ee268c-5b79-45c7-89bf-2c6d670a9186)
-
 
    - Update or delete a reservation.
 
@@ -41,7 +40,6 @@ Tranquility Camp Website is a hotel booking website for Tranquility Camp, a hote
 4. Authentication: Sign up and log in before reserving a cabin.
 
    ![Sign up](https://github.com/user-attachments/assets/c4a65d25-f114-460a-956d-aec49d9b110b)
-
 
 5. Profile: Update your profile data such as country flag and national ID.
 
