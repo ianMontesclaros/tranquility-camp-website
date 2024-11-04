@@ -1,6 +1,6 @@
-# Tranquility Camp Website
-
 <img width="1710" alt="Screenshot 2024-11-04 at 9 00 25 AM" src="https://github.com/user-attachments/assets/bed25295-ef25-4e40-94ea-90c7dfd394f0">
+
+# Tranquility Camp Website
 
 Tranquility Camp Website is a hotel booking website for Tranquility Camp, a hotel known for its perfect viewpoint of the aurora borealis, where guests can book and reserve for exclusive wooden cabins.
 
