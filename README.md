@@ -33,7 +33,7 @@ Tranquility Camp Website is a hotel booking website for Tranquility Camp, a hote
 
    - Update or delete a reservation.
 
-   ![Update reservation](https://github.com/user-attachments/assets/7fa70f18-394c-4bed-bb2d-04bbef7966e6)
+   ![Update reservation](https://github.com/user-attachments/assets/70bed80a-a416-4449-b5e1-8559a866494c)
 
    ![Delete reservation](https://github.com/user-attachments/assets/d05bd135-5ffd-4fb7-8f34-77947378da76)
 
