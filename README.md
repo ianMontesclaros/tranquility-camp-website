@@ -18,8 +18,8 @@ Tranquility Camp Website is a hotel booking website for Tranquility Camp, a hote
    ![View cabin](https://github.com/user-attachments/assets/5a444d0d-a469-429e-81fa-ff021237cca2)
 
    - Filter cabins by maximum capacity.
-  
-   ![Filter cabins](https://github.com/user-attachments/assets/af8fbace-7d02-4a05-bfa3-9b7be5e291e4)
+
+   ![Filter cabins](https://github.com/user-attachments/assets/220f78fb-bb82-47a3-83c9-956731f23935)
 
 3. Reservations
 
@@ -33,9 +33,9 @@ Tranquility Camp Website is a hotel booking website for Tranquility Camp, a hote
 
    - Update or delete a reservation.
 
-   ![Update cabin](https://github.com/user-attachments/assets/fbcabbdd-d71a-4d39-b395-b12454c015ca)
+   ![Update reservation](https://github.com/user-attachments/assets/7fa70f18-394c-4bed-bb2d-04bbef7966e6)
 
-   ![Delete cabin](https://github.com/user-attachments/assets/518ed691-86ee-4e85-9aa2-a2c1b0f9bbb0)
+   ![Delete reservation](https://github.com/user-attachments/assets/d05bd135-5ffd-4fb7-8f34-77947378da76)
 
 4. Authentication: Sign up and log in before reserving a cabin.
 
