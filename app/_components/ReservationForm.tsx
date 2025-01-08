@@ -36,20 +36,6 @@ function ReservationForm({ cabin, user }: { cabin: ICabin; user: User }) {
 
   return (
     <div className="grid">
-      {/* <div className="bg-primary-800 text-primary-300 px-16 py-2 flex justify-between items-center text-lg">
-        <p>Logged in as</p>
-        <div className="flex gap-4 items-center">
-          <img
-            // Needed to display google profile images
-            referrerPolicy="no-referrer"
-            className="h-8 rounded-full"
-            src={user.image!}
-            alt={user.name!}
-          />
-          <p>{user.name}</p>
-        </div>
-      </div> */}
-
       <form
         className="bg-primary-900 py-20 px-16 text-lg flex gap-5 flex-col"
         action={handleSubmit}

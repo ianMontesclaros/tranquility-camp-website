@@ -24,7 +24,6 @@ export default async function Reservation({ cabin }: { cabin: ICabin }) {
       {session?.user ? (
         <ReservationForm cabin={cabin} user={session.user} />
       ) : (
-        // <p>Hello</p>
         <LoginMessage />
       )}
     </div>

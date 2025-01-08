@@ -21,7 +21,6 @@ async function SelectCountry({ defaultCountry, name, id, className }: Props) {
     <select
       name={name}
       id={id}
-      // ↓ The name and flag are split in the SA.
       defaultValue={`${defaultCountry}%${flag}`}
       className={className}
     >

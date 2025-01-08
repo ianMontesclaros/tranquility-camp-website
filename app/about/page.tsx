@@ -12,8 +12,6 @@ export const metadata: Metadata = {
   title: "About",
 };
 
-// &apos;
-
 export default async function Page() {
   const numCabins = await getCabins();
 

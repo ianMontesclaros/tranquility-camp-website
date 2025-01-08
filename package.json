@@ -1,5 +1,6 @@
 {
-  "name": "the-wild-oasis-website",
+  "name": "tranquility-camp-website",
+  "author": "Ian Montesclaros",
   "version": "0.1.0",
   "private": true,
   "scripts": {
